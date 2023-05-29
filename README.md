@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Diana-Elen
+- 👋 Hi, I’m Diana-Elena Dinu
 - 👀 I’m interested in web development and I graduated from IT School front-end development course (a 5 months course).
 - 🌱 I’m currently improving my skills in HTML, CSS, JavaScript, React, Bootstrap.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I’m looking for new opportunities in front-end development.
 - 📫 How to reach me: https://www.linkedin.com/in/diana-dinu-front-end-dev/
 
 <!---
